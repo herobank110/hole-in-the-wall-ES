@@ -6,12 +6,14 @@
   "scripts": {
     "start": "npx tsc"
   },
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/herobank110/hole-in-the-wall-ES"
+  },
   "author": "David Kanekanian",
   "license": "ISC",
   "dependencies": {
-    "typescript": "3.9.3"
-  },
-  "devDependencies": {
-    "three": "^0.116.1"
+    "typescript": "3.9.3",
+    "three": "0.116.1"
   }
 }
