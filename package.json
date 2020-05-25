@@ -1,0 +1,17 @@
+{
+  "name": "holeinwall",
+  "version": "1.0.0",
+  "description": "A hole in the wall game.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc"
+  },
+  "author": "David Kanekanian",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "3.9.3"
+  },
+  "devDependencies": {
+    "three": "^0.116.1"
+  }
+}
